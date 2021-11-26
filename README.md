@@ -24,4 +24,4 @@ del viajero con tu hotel.
 ### Funcionalidades
 
 ### Diagrama 
-[![Captura de pantalla 2021-11-26 013516](C:\Users\mygan\Pictures "Captura de pantalla 2021-11-26 013516")](http://C:\Users\mygan\Pictures "Captura de pantalla 2021-11-26 013516")
+![image](https://user-images.githubusercontent.com/90008728/143545202-921487fa-0c50-4d23-abc3-a44a56eb2a1c.png)
