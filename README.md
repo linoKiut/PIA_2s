@@ -18,10 +18,21 @@ del viajero con tu hotel.
 ### Propuesta de Solución
 
 ### Entidades
+- empleados
+- habitaciones
+- habitacion
+- clientes
+- opcion
+- venta
+- total
 
 ### Atributos
+- cliente
+- habitacion
 
 ### Funcionalidades
+- cliente: nos mostrara su separacion de hotel y nos mostrara su informacion personal para registrar
+- habitacion: elegir como querran cama, baño y tv
 
 ### Diagrama 
 ![image](https://user-images.githubusercontent.com/90008728/143545202-921487fa-0c50-4d23-abc3-a44a56eb2a1c.png)
