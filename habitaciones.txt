@@ -1,0 +1,34 @@
+Reservaciones [1]
+
+Nombre del cliente: Luis Mauro
+Tipo de habitacion: Doble
+Numero de habitaciones: 2
+Dias reservados: 5
+Precio Total: 15000
+
+
+Reservaciones [2]
+
+Nombre del cliente: Jesus
+Tipo de habitacion: Suite
+Numero de habitaciones: 5
+Dias reservados: 3
+Precio Total: 30000
+
+
+Reservacion [1]
+Nombre del cliente: Juan
+Tipo de habitacion: Doble
+Numero de habitaciones: 1
+Dias reservados: 2
+Precio Total: 3000
+
+
+Reservacion [1]
+Nombre del cliente: gg
+Tipo de habitacion: Doble
+Numero de habitaciones: 2
+Dias reservados: 5
+Precio Total: 15000
+
+
